@@ -70,20 +70,15 @@ I hope it will be helpful for course learning.
 
 # Instruction
 1. [how to view / download file from this repo](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/view_and_download_file.md)
-
+2. [Octave Installation](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/Octave_installation.md)
+3. [MATLAB Installation](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/MATLAB_installation.md)
+4. [how to view / edit markdown](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/view_and_edit_markdown.md)
 
 # TO-DO-LIST
-1. software instruction
-    * [OCTAVE](https://www.gnu.org/software/octave/)
-    * MATLAB
-    * github how to view / download
-    * markdown, how to edit ```.MD``` file
-    * MATLAB online
-    * Python: maybe not
-2. lecture note (in ```MarkDown``` format)
-3. Chapter draft
-4. mathjax support
-5. add ```update.md```
+1. lecture note (in ```Markdown``` format)
+2. Chapter draft
+3. mathjax support
+4. add usage
 
 
 # FAQ
