@@ -1,8 +1,9 @@
 **claims: anything in this code repo not consistent with lecture content, plaese follow lecture content as standard**
 
 
-# PHYS4150 code repo
-This is a code repo for course PHYS4150 Computational Physics, including some code snippet. I hope it will be helpful for course studying.
+# PHYS4150-2018
+This is the website for course PHYS4150 Computational Physics, including course materials and some code snippet. 
+I hope it will be helpful for course learning.
 
 
 # Course Notification
@@ -50,7 +51,7 @@ This is a code repo for course PHYS4150 Computational Physics, including some co
    * grade descriptors
 
 
-# code repo folder organization
+# Folder organization
 1. ```lecture_note```: the official course lecture notes distributed by Prof. Wang. Most in ```.pdf``` format
 2. ```lecture_PPT```: the official course PPT, usally updated after every course. Most in ```.ppt``` format
 3. ```tutorial_material```: the tutorials session present content
@@ -85,7 +86,7 @@ This is a code repo for course PHYS4150 Computational Physics, including some co
 *still under construction*
 
 
-# welcome for contribution
+# Welcome for contribution
 If you
 * have some interesting idea
 * write some related codes worthy sharing
