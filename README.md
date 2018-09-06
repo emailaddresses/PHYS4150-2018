@@ -16,9 +16,7 @@ I hope it will be helpful for course learning.
    - [ ] 20181010 (Wed) 11:30-12:20 MBG07, Main Building
    - [ ] 20181031 (Wed) 11:30-12:20 MBG07, Main Building
    - [ ] 20181121 (Wed) 11:30-13:20 MBG07, Main Building
-3. update history note
-   - [TS20180906](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180906): PPT, ```mlx``` code snippet and export to ```pdf``` file, draft
-
+3. [update note](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/update_note.md)
 
 # Course Information
 1. notice: course information is copied from [Online Syllabuses and Regulations](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS4150)
