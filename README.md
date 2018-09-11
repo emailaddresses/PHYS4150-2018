@@ -108,5 +108,5 @@ you could
 # About LICENSE
 This code repo will borrow a lot of code from other source most of which will use a different LICENSE from current code repo. I am not sure whether the current repo LICENSE is compatible with that in the original source. If any incompitiblity, PLAESE give me advice on how to deal with that, many thanks.
 
-# Contributor
+# Contributors
 *TODO*
