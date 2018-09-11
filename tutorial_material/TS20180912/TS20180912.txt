@@ -1,10 +1,14 @@
-welcome to select course PHYS4150
+welcome to select this course, computational physics
 
-i am tutor. email, room 418
+i am tutor. email, room 418, you could send email, go to my office (be there most time)
 
 course website is (still under construction)
 
 almost every thing (lecture note, lecture PPT, tutorials code, presentation code, etc.), detail later.
+
+this is the website, notific, assignments info, tutorials times (additional)
+course not, course info, folder structure (tutorials materials)
+
 
 session time slot (additional)
 bring your computer to class every tutorials session

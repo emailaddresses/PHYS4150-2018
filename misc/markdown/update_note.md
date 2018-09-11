@@ -1,4 +1,11 @@
-# [TS20180906](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180906)
+# TS20180906
+- removed
+
+# TS20180912
 - [x] PPT
 - [x] ```mlx``` code snippet and export to ```pdf``` file
-- [ ] draft
+- [x] draft
+- course information
+- course website
+- octave installation
+- octave get-started

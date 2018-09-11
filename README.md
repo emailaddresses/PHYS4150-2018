@@ -64,8 +64,9 @@ I hope it will be helpful for course learning.
    * ```.mlx```: as above
    * ```.pdf```: as above
 7. ```project```: *still under construction*
-8. ```misc/markdown```: write kinds of instructions markdown files
-9. ```misc/*```: *still under construction*
+9.  ```misc/*```: *still under construction*
+   * ```misc/markdown```: write kinds of instructions markdown files
+   * ```misc/axmath```: math formula in latex
 
 
 # Instruction
@@ -75,18 +76,23 @@ I hope it will be helpful for course learning.
 4. [how to view / edit markdown](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/view_and_edit_markdown.md)
 
 # TO-DO-LIST
-1. lecture note (in ```Markdown``` format)
-2. Chapter draft
-3. mathjax support
-4. add usage
+1. Chapter draft
+2. mathjax support
+3. add usage
+4. Simplified / Traditional Chinese version
 
 
 # FAQ
 *still under construction*
+1. what is MATLAB live scripts ```.mlx```
+ > see [official documentation](https://www.mathworks.com/help/matlab/matlab_prog/what-is-a-live-script-or-function.html;jsessionid=9a500aa277e7aa38ca708835117a). It's a good tool for demostration, but personally I do not recommand to use it
+ for other use as currently ```.mlx``` is a little bit slower than that in ```.m``` or in command window.
 
 
 # Welcome for contribution
-If you
+you could find a lot of *TODO* tags in this code repo, and those tags are all waiting for your contributions to complete.
+
+Also, if you
 * have some interesting idea
 * write some related codes worthy sharing
 * find some language error. (...my English is poor)
@@ -101,3 +107,6 @@ you could
 
 # About LICENSE
 This code repo will borrow a lot of code from other source most of which will use a different LICENSE from current code repo. I am not sure whether the current repo LICENSE is compatible with that in the original source. If any incompitiblity, PLAESE give me advice on how to deal with that, many thanks.
+
+# Contributor
+*TODO*

@@ -3,7 +3,7 @@ Always read *README.md* first
 # how to view file
 1. go to website [https://husisy.github.io/PHYS4150-2018/](https://husisy.github.io/PHYS4150-2018/)
 2. click *view on GitHub*
-3. click on the folder and go on clicking the file you want to view, for example *tutorial_material/TS20180906/TS20180906.pdf*
+3. click on the folder and go on clicking the file you want to view, for example *tutorial_material/TS20180912/TS20180912.pdf*
 4. currently supported file format that can be read online
    * ```.pdf```
    * ```.md```
