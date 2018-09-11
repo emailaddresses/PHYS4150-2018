@@ -64,7 +64,7 @@ I hope it will be helpful for course learning.
    * ```.mlx```: as above
    * ```.pdf```: as above
 7. ```project```: *still under construction*
-9.  ```misc/*```: *still under construction*
+9. ```misc/*```: *still under construction*
    * ```misc/markdown```: write kinds of instructions markdown files
    * ```misc/axmath```: math formula in latex
 
