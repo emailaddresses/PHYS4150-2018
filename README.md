@@ -8,7 +8,7 @@ I hope it will be helpful for course learning.
 
 # Course Notification
 1. assignment states; detail see [homework list](https://github.com/husisy/PHYS4150-2018/tree/master/homework)
-   * 1 - programming get-started (ungraded and nothing need to submit)
+   * [1 - programming get-started](https://github.com/husisy/PHYS4150-2018/tree/master/homework#1---programming-get-started) (ungraded and nothing need to submit)
 2. tutorials session (**including additional tutorials session**)
    - [ ] (every week) Thursday 11:30-12:20 (10:30-11:20 for lecture)
    - [ ] 20180926 (Wed) 11:30-12:20 MBG07, Main Building

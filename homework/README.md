@@ -18,7 +18,7 @@ and I will add it to this list if suitable; It will be better to come up with ne
    * [MATLAB Desktop Basics](https://www.mathworks.com/help/matlab/learn_matlab/desktop.html)
    * [Using Octave](https://wiki.octave.org/Using_Octave)
    * [Octave Programming Tutorials / Getting started](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial/Getting_started)
-2. Type the code yourself and see the results. If not understand the code, use doc(bulabula) to get help
+2. Type the code yourself and see the results. If not understand the code, use ```doc(bulabula)``` to get help
 3. several check lists
    * ```clc```
    * ```create matrix use []```
