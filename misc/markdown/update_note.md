@@ -9,3 +9,4 @@
 - course website
 - octave installation
 - octave get-started
+- add *1-programming get-started*

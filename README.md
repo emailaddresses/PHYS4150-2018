@@ -7,16 +7,16 @@ I hope it will be helpful for course learning.
 
 
 # Course Notification
-1. assignment states
-   * None
+1. assignment states; detail see [homework list](https://github.com/husisy/PHYS4150-2018/tree/master/homework)
+   * 1 - programming get-started (ungraded and nothing need to submit)
 2. tutorials session (**including additional tutorials session**)
    - [ ] (every week) Thursday 11:30-12:20 (10:30-11:20 for lecture)
-   - [ ] 20180912 (Wed) 11:30-12:20 MBG07, Main Building
    - [ ] 20180926 (Wed) 11:30-12:20 MBG07, Main Building
    - [ ] 20181010 (Wed) 11:30-12:20 MBG07, Main Building
    - [ ] 20181031 (Wed) 11:30-12:20 MBG07, Main Building
    - [ ] 20181121 (Wed) 11:30-13:20 MBG07, Main Building
-3. [update note](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/update_note.md)
+   - [x] 20180912 (Wed) 11:30-12:20 MBG07, Main Building, [tutorial session materials](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180912)
+3. [update note 20180912](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/update_note.md)
 
 # Course Information
 1. notice: course information is copied from [Online Syllabuses and Regulations](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS4150)
