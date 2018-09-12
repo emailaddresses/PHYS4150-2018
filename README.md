@@ -6,6 +6,14 @@ This is the website for course PHYS4150 Computational Physics, including course 
 I hope it will be helpful for course learning.
 
 
+# Usage
+1. check course website frequently, especially course notification section.
+2. follow the Instruction section to view / download the course materials.
+3. follow the Instruction section to setup Octave / MATLAB on PC.
+4. go through *1 - programming get-started* to get familar with Octave / MATLAB
+5. focus on the course algorithms, try to understand, implement, and apply them to real physics problem
+
+
 # Course Notification
 1. assignment states; detail see [homework list](https://github.com/husisy/PHYS4150-2018/tree/master/homework)
    * [1 - programming get-started](https://github.com/husisy/PHYS4150-2018/tree/master/homework#1---programming-get-started) (ungraded and nothing need to submit)
@@ -76,7 +84,8 @@ I hope it will be helpful for course learning.
 4. [how to view / edit markdown](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/view_and_edit_markdown.md)
 
 # TO-DO-LIST
-1. Chapter draft
+1. homework folder structure
+2. Chapter draft
 2. mathjax support
 3. add usage
 4. Simplified / Traditional Chinese version
