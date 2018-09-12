@@ -1,27 +1,70 @@
-*still under construction*
-
 *notice: here list all the problems that waiting for your contribution whether they are GRADED or NOT*
 
 If you find some problems worth sharing (should be related to the course), you could tell me (by email / PR / issue), 
 and I will add it to this list if suitable; It will be better to come up with new problems along with solutions.
 
-
-# problem set
-1. from lecture note
-2. from contribution
-3. from whatever
-4. *TODO*
+# assignment / homework requirements
+1. this is the draft of first version, if find any unsuitable requirements, welcome to discuss
+2. some homeworks are optional. If you submit the answer to optional homeworks, maybe you will earn extra grades or may not. Personally, I recommand to finish these optional ones since they should be of some help for later homeworks.
+3. you should submit homework before the due time, and you could collect you homework after the due date. detail see [submit and collect homework](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/submit_and_collect_homework.md)
 
 
-# 1 - programming get started
-1. go through Octave or MATLAB get-started tutorials
+# 0-square-root-of-complex-number
+1. **this is a fake homework for demo only**
+2. due time: 20180901 00:00
+3. calculate the square root of a complex number using a function that can only take the square root of real numbers
+4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/0_square_root_of_complex_number/code_template.m)
+
+
+# 1-programming-get-started
+1. due time: None
+2. go through Octave or MATLAB get-started tutorials
    * [MATLAB Desktop Basics](https://www.mathworks.com/help/matlab/learn_matlab/desktop.html)
    * [Using Octave](https://wiki.octave.org/Using_Octave)
    * [Octave Programming Tutorials / Getting started](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial/Getting_started)
-2. Type the code yourself and see the results. If not understand the code, use ```doc(bulabula)``` to get help
-3. several check lists
+3. Type the code yourself and see the results. If not understand the code, use ```doc(bulabula)``` to get help
+4. several check lists
    * ```clc```
    * ```create matrix use []```
    * ```;```
    * ```plot```
    * *TODO*
+
+
+# 2-optimization-generate-K-prime-number
+1. due time: 20180927 23:59
+2. based on the ```my_isprime()``` we have implemented on the course, we could easily write down the program the generate the first K prime number start from 2. Moreover in the lecture note mentioned two improvements (lecture note page 41/61)
+   * ....increase N by 2 each time.....
+   * ....do not need to go through the entire list of the existing prime numbers....
+3. you need to
+   * understand the code in ```code_template.m```
+   * implement these two improvements
+4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/2_optimization_generate_K_prime_number/code_template.m)
+
+
+# 3-calculate-pi-Liu-Hui
+1. due time: 20180927 23:59
+2. calculate pi value using Liu-Hui's method (the ancient Chinese method)
+   * you are required to print out ```n,  pi_n``` every recursive step
+   * paste yoru print out to the comment blocks in the ```code_template.m``` as part of your homework
+3. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/3_calculate_pi_Liu_Hui/code_template.m)
+
+
+
+# 4-calculate-pi-Buffon-Needle
+1. due time: 20180927 23:59
+2. calculate pi value using Buffon's Needle method, you need to
+   * implement the Buffon's Needle method to calculate pi
+   * add your report (e.g. try different number of drops) to the comment blocks in the ```code_template.m``` (several sentences are enough)
+3. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/3_calculate_pi_Liu_Hui/code_template.m)
+
+
+# 5-calculate-pi-series-expansion
+1. due time: 20180927 23:59
+2. **OPTIONAL**
+3. calculate pi value using series expansion
+4. no ```code_template.m``` available
+
+
+# more homework is on the way
+tired .... I want to sleep...
