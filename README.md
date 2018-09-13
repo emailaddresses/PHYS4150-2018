@@ -71,15 +71,13 @@ I hope it will be helpful for course learning.
    * ```.mlx```: MATLAB live scripts file, could only open in MATLAB, which combines both formatted explanatory text and code
    * ```.pdf```: every ```.mlx``` file will be converted to ```.pdf``` file for easy-view purpose
    * ```.txt```: tutorial session draft
-4. ```homework```: *still under construction*
+4. ```homework```: *still under construction, TODO*
 5. ```MD_lecture_note```: rewrite lecture note according to personal understanding. All in ```.md``` format
-6. ```code_draft```: demonstrate algorithms in code snippet
-   * ```.mlx```: as above
-   * ```.pdf```: as above
+6. ```code_draft```: *deleted. I find all code snippets have been included in requred or optional homework.*
 7. ```project```: *still under construction*
-9. ```misc/*```: *still under construction*
+8. ```misc/*```: *still under construction*
    * ```misc/markdown```: write kinds of instructions markdown files
-   * ```misc/axmath```: math formula in latex
+   * ```misc/axmath```: *deleted, no enough time to maintain*
 
 
 # Instruction
