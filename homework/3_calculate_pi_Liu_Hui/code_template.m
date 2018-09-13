@@ -18,13 +18,8 @@ n,   pi_n     should take value like this, also depend on the your initial value
 32,  3.121445
 %}
 
-% unittest
-hfe = @(x,y) max(max(abs(x-y)./(abs(x)+abs(y)+1e-3)));
-assert(hfe(my_pi_Liu_Hui(), pi)<1e-3, 'your function result has large error')
-disp('unittest passed')
 
-
-function pi_n = my_pi_Liu_Hui()
+function pi_n = code_template()
 % calculate pi use Liu Hui's method
 % ---- start from here ---
 n = 6;

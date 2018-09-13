@@ -4,7 +4,7 @@
 1. go to course website to check the assignments / homeworks status
 2. select the homework
 3. read the homework instruction clearly
-4. click ```code_template.m``` and download the file (maybe multiple files in the later homework)
+4. download ```code_template.m``` and ```unittest.m```
 5. complete the basic info at the beggining of ```code_template.m```
    * ```name``` and ```uid```: used for gradding
    * ```put on course website```: if select yes, your homework will be put on course website. Personally, I strongly encourage you to do that, since others could learn coding skills and detailed algorithms from your homeworks, also you could receive programming suggestions from the others.
@@ -12,7 +12,7 @@
    * **NOTICE, name and uid will not show on course website**
 6. complete the algorithm in the ```code_template.m``` as homework required
    * there are some comments like ```% ---- start coding from here ----``` and ```%---end coding---``` to help you code, of course you could also code outside of that block.
-   * sometimes, there will be unittest code to help you check the code correctness
+   * you could use ```unittest.m``` to help you debug. Usually you will see ```unittest passed``` if you implement you code correctly.
 7. send your homework via email
    * remember to rename ```code_template.m``` to some meaningful name.
    * usually there will be several homeworks share the same due time, so it would be better to send me just one email instead of several.

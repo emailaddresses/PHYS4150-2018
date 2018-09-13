@@ -8,14 +8,8 @@ right reserved for [e.g. A. Einstein; this will show on github if select yes abo
 %}
 
 
-% unittest
-hfe = @(x,y) max(max(abs(x-y)./(abs(x)+abs(y)+1e-3)));
-assert(hfe(my_generate_K_prime(7), [2,3,5,7,11,13,17])<1e-3, 'your function result has large error')
-assert(hfe(my_generate_K_prime(9), [2,3,5,7,11,13,17,19,23])<1e-3, 'your function result has large error')
-disp('unittest pass, but this does not mean two improments have been added')
-
-
-function ret = my_generate_K_prime(K)
+function ret = code_template(K)
+% my_generate_K_prime
 % K(int)
 % ret(int,(1,K))
 ret = zeros(1,K);

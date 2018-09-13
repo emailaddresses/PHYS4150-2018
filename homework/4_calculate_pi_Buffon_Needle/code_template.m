@@ -8,12 +8,7 @@ right reserved for [e.g. A. Einstein; this will show on github if select yes abo
 %}
 
 
-% unittest
-hfe = @(x,y) max(max(abs(x-y)./(abs(x)+abs(y)+1e-3)));
-disp(['relative error: ', num2str(hfe(my_pi_Buffon_needle(), pi), 5)])
-
-
-function ret = my_pi_Buffon_needle()
+function ret = code_template()
 % calculate pi use Buffon's needle method
 % ---- start from here ---
 ret = 0;

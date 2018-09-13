@@ -29,7 +29,17 @@ I hope it will be helpful for course learning.
    - [ ] 20181031 (Wed) 11:30-12:20 MBG07, Main Building
    - [ ] 20181121 (Wed) 11:30-13:20 MBG07, Main Building
    - [x] 20180912 (Wed) 11:30-12:20 MBG07, Main Building, [tutorial session materials](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180912)
+   - [x] 20180913 (Wed) [tutorial session materials](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180913)
 3. [last updated 20180913](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/update_note.md)
+   * upload tutorial materials TS20190913
+   * upload lecture_note and lecture PPT
+   * fix Octave/MATLAB compatibility problem. Since function cannot be defined in Octave script, the origin ```code_template.m``` cannot run on Octave. now I have split ```unittest.m``` from ```code_template.m```. After that, code could run on both Octave/MATLAB (personally I really not recommand use Octave).
+4. **NOTICE, about using Python for this course**
+   * you could use Python to finish the assignments/homework, but we will not supply ```code_template.py``` for Python.
+   * the basic info should be included in your submission. ```name```, ```uid```, ```whether to put on course website```, ```right reserved info```
+   * for the final course project, you ```must``` use Octave/MATLAB. The project using Python will not be graded.
+   * *TODO, move this notice to FAQ section*
+
 
 # Course Information
 1. notice: course information is copied from [Online Syllabuses and Regulations](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=PHYS4150)
@@ -90,9 +100,9 @@ I hope it will be helpful for course learning.
 
 # TO-DO-LIST
 1. homework folder structure
-2. Chapter draft
-2. mathjax support
-3. Simplified / Traditional Chinese version
+2. optional homework6 and homework7
+3. mathjax support
+4. Simplified / Traditional Chinese version
 
 
 # FAQ
@@ -100,7 +110,8 @@ I hope it will be helpful for course learning.
 1. what is MATLAB live scripts ```.mlx```
  > see [official documentation](https://www.mathworks.com/help/matlab/matlab_prog/what-is-a-live-script-or-function.html;jsessionid=9a500aa277e7aa38ca708835117a). It's a good tool for demostration, but personally I do not recommand to use it
  for other use as currently ```.mlx``` is a little bit slower than that in ```.m``` or in command window.
-
+1. can I use Python in this course
+ > *TODO, move the answer from notice*
 
 # Welcome for contribution
 you could find a lot of *TODO* tags in this code repo, and those tags are all waiting for your contributions to complete.
