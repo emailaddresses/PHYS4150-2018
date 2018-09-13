@@ -15,7 +15,7 @@ and I will add it to this list if suitable; It will be better to come up with ne
 3. calculate the square root of a complex number using a function that can only take the square root of real numbers
 4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/0_square_root_of_complex_number/code_template.m)
 5. [```submit_example.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/0_square_root_of_complex_number/submit_example.m): this is an example file what you should submit. In this file you should keep those basic info (name, uid, right reserved info).
-6. [```demo_on_course_website.m](https://github.com/husisy/PHYS4150-2018/tree/master/homework/0_square_root_of_complex_number/demo_on_course_website.m): this is what others will see on the course website; name and uid info will be removed but right reserved info will still be there. If you select yes to put on the course website, I will upload your coding after the assignment due time.
+6. [```demo_on_course_website.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/0_square_root_of_complex_number/demo_on_course_website.m): this is what others will see on the course website; name and uid info will be removed but right reserved info will still be there. If you select yes to put on the course website, I will upload your coding after the assignment due time.
 7. [```solution.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/0_square_root_of_complex_number/solution.m): This is the reference solution which will be uploaded after due time.
 
 
