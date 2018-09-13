@@ -15,13 +15,13 @@ I hope it will be helpful for course learning.
 
 
 # Course Notification
-1. assignment states; detail see [homework list](https://github.com/husisy/PHYS4150-2018/tree/master/homework)
+1. [homework list](https://github.com/husisy/PHYS4150-2018/tree/master/homework) (2018xxxx xx:xx is due time)
    * [0-square-root-of-complex-number](https://github.com/husisy/PHYS4150-2018/tree/master/homework#0-square-root-of-complex-number) (for demo only)
    * [1-programming-get-started](https://github.com/husisy/PHYS4150-2018/tree/master/homework#1-programming-get-started) (ungraded and nothing need to submit)
-   * [2-optimization-generate-K-prime-number](https://github.com/husisy/PHYS4150-2018/tree/master/homework#2-optimization-generate-K-prime-number): due at 20180927 23:59
-   * [3-calculate-pi-Liu-Hui](https://github.com/husisy/PHYS4150-2018/tree/master/homework#3-calculate-pi-Liu-Hui): due at 20180927 23:59
-   * [4-calculate-pi-Buffon-Needle](https://github.com/husisy/PHYS4150-2018/tree/master/homework#4-calculate-pi-Buffon-Needle): due at 20180927 23:59
-   * [5-calculate-pi-series-expansion](https://github.com/husisy/PHYS4150-2018/tree/master/homework#5-calculate-pi-series-expansion): due at 20180927 23:59
+   * [2-optimization-generate-K-prime-number](https://github.com/husisy/PHYS4150-2018/tree/master/homework#2-optimization-generate-K-prime-number) 20180927 23:59
+   * [3-calculate-pi-Liu-Hui](https://github.com/husisy/PHYS4150-2018/tree/master/homework#3-calculate-pi-Liu-Hui) 20180927 23:59
+   * [4-calculate-pi-Buffon-Needle](https://github.com/husisy/PHYS4150-2018/tree/master/homework#4-calculate-pi-Buffon-Needle) 20180927 23:59
+   * [5-calculate-pi-series-expansion](https://github.com/husisy/PHYS4150-2018/tree/master/homework#5-calculate-pi-series-expansion) 20180927 23:59 (optional)
 2. tutorials session (**including additional tutorials session**)
    - [ ] (every week) Thursday 11:30-12:20 (10:30-11:20 for lecture)
    - [ ] 20180926 (Wed) 11:30-12:20 MBG07, Main Building

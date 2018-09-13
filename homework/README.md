@@ -14,6 +14,9 @@ and I will add it to this list if suitable; It will be better to come up with ne
 2. due time: 20180901 00:00
 3. calculate the square root of a complex number using a function that can only take the square root of real numbers
 4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/0_square_root_of_complex_number/code_template.m)
+5. [```submit_example.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/0_square_root_of_complex_number/submit_example.m): this is an example file what you should submit. In this file you should keep those basic info (name, uid, right reserved info).
+6. [```demo_on_course_website.m](https://github.com/husisy/PHYS4150-2018/tree/master/homework/0_square_root_of_complex_number/demo_on_course_website.m): this is what others will see on the course website; name and uid info will be removed but right reserved info will still be there. If you select yes to put on the course website, I will upload your coding after the assignment due time.
+7. [```solution.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/0_square_root_of_complex_number/solution.m): This is the reference solution which will be uploaded after due time.
 
 
 # 1-programming-get-started
@@ -33,7 +36,7 @@ and I will add it to this list if suitable; It will be better to come up with ne
 
 # 2-optimization-generate-K-prime-number
 1. due time: 20180927 23:59
-2. based on the ```my_isprime()``` we have implemented on the course, we could easily write down the program the generate the first K prime number start from 2. Moreover in the lecture note mentioned two improvements (lecture note page 41/61)
+2. based on the ```my_isprime()``` implemented on the course, we could easily write down the program the generate the first K prime number start from 2. Moreover in the lecture note mentioned two improvements (lecture note page 41/61)
    * ....increase N by 2 each time.....
    * ....do not need to go through the entire list of the existing prime numbers....
 3. you need to
