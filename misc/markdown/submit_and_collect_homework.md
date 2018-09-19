@@ -1,6 +1,9 @@
-*This instruction will use 0-square-root-of-complex-number (for demo only) fake homework for demonstration*
+# submit and collect homework
 
-# Before the due date
+Notice: *This instruction will use 0-square-root-of-complex-number (for demo only) fake homework for demonstration*
+
+## Before the due date
+
 1. go to course website to check the assignments / homeworks status
 2. select the homework
 3. read the homework instruction clearly
@@ -12,12 +15,13 @@
    * **NOTICE, name and uid will not show on course website**
 6. complete the algorithm in the ```code_template.m``` as homework required
    * there are some comments like ```% ---- start coding from here ----``` and ```%---end coding---``` to help you code, of course you could also code outside of that block.
-   * you could use ```unittest.m``` to help you debug. Usually you will see ```unittest passed``` if you implement you code correctly.
+   * run ```unittest.m``` to help you debug. Usually you will see ```unittest passed``` if you implement you code correctly.
 7. send your homework via email
    * remember to rename ```code_template.m``` to some meaningful name.
    * usually there will be several homeworks share the same due time, so it would be better to send me just one email instead of several.
 
-# After the due date
+## After the due date
+
 1. you could still submit the assignments / homeworks that have passed the due time. you could choose wheter to put on the course website, but will not be graded.
 2. I will upload the reference answer sooner after the due time.
 3. I will upload those coding which select yes to the course website.

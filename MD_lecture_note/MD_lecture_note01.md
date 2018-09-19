@@ -1,7 +1,9 @@
-# MD lecture01
+# markdown lecture note01
+
 ---
 
-# Introduction
+## Introduction
+
 1. key points
    * transistor
    * vacuum tube
@@ -11,7 +13,8 @@
 3. Programming language
 4. *TODO*
 
-# Example: generate the first K prime number
+## Example: generate the first K prime number
+
 1. a is divisible by b
 2. prime number definition: a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers
 3. algorithm: *TODO, add link to code*
@@ -20,7 +23,8 @@
    * (numerator) skip if the New number is even
    * (denomiator) skip if the prime number is larger than half of the new number
 
-# Example: calculate PI
+## Example: calculate PI
+
 1. Liu Hui's method
    * [wiki](https://en.wikipedia.org/wiki/Liu_Hui%27s_%CF%80_algorithm)
    * MATLAB implementation see *TODO, add link to code*
@@ -31,9 +35,10 @@
    * [wiki](https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80)
    * MATLAB implementation see *TODO, add link to code*
 
-# Example: Radioactive decay
+## Example: Radioactive decay
+
 1. *TODO*
 
+## problem set
 
-# problem set
 1. *TODO*

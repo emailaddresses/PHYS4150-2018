@@ -1,15 +1,17 @@
-*notice: here list all the problems that waiting for your contribution whether they are GRADED or NOT*
+# homework
 
-If you find some problems worth sharing (should be related to the course), you could tell me (by email / PR / issue), 
-and I will add it to this list if suitable; It will be better to come up with new problems along with solutions.
+NOTICE: *here list all the problems that waiting for your contribution whether they are GRADED or NOT*
 
-# assignment / homework requirements
+If you find some problems worth sharing (should be related to the course), you could tell me (by email / PR / issue), and I will add it to this list if suitable; It will be better to come up with new problems along with solutions.
+
+## homework requirements
+
 1. this is the draft of first version, if find any unsuitable requirements, welcome to discuss
 2. some homeworks are optional. If you submit the answer to optional homeworks, maybe you will earn extra grades or may not. Personally, I recommand to finish these optional ones since they should be of some help for later homeworks.
 3. you should submit homework before the due time, and you could collect you homework after the due date. detail see [submit and collect homework](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/submit_and_collect_homework.md)
 
+## 0-square-root-of-complex-number
 
-# 0-square-root-of-complex-number
 1. **this is a fake homework for demo only**
 2. due time: 20180901 00:00
 3. calculate the square root of a complex number using a function that can only take the square root of real numbers
@@ -18,8 +20,8 @@ and I will add it to this list if suitable; It will be better to come up with ne
 6. [```demo_on_course_website.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/0_square_root_of_complex_number/demo_on_course_website.m): this is what others will see on the course website; name and uid info will be removed but right reserved info will still be there. If you select yes to put on the course website, I will upload your coding after the assignment due time.
 7. [```solution.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/0_square_root_of_complex_number/solution.m): This is the reference solution which will be uploaded after due time.
 
+## 1-programming-get-started
 
-# 1-programming-get-started
 1. due time: None
 2. go through Octave or MATLAB get-started tutorials
    * [MATLAB Desktop Basics](https://www.mathworks.com/help/matlab/learn_matlab/desktop.html)
@@ -33,8 +35,8 @@ and I will add it to this list if suitable; It will be better to come up with ne
    * ```plot```
    * *TODO*
 
+## 2-optimization-generate-K-prime-number
 
-# 2-optimization-generate-K-prime-number
 1. due time: 20180927 23:59
 2. based on the ```my_isprime()``` implemented on the course, we could easily write down the program the generate the first K prime number start from 2. Moreover in the lecture note mentioned two improvements (lecture note page 41/61)
    * ....increase N by 2 each time.....
@@ -45,8 +47,8 @@ and I will add it to this list if suitable; It will be better to come up with ne
 4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/2_optimization_generate_K_prime_number/code_template.m)
 5. ```unittest.m```
 
+## 3-calculate-pi-Liu-Hui
 
-# 3-calculate-pi-Liu-Hui
 1. due time: 20180927 23:59
 2. calculate pi value using Liu-Hui's method (the ancient Chinese method)
    * you are required to print out ```n,  pi_n``` every recursive step
@@ -54,8 +56,8 @@ and I will add it to this list if suitable; It will be better to come up with ne
 3. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/3_calculate_pi_Liu_Hui/code_template.m)
 4. ```unittest.m```
 
+## 4-calculate-pi-Buffon-Needle
 
-# 4-calculate-pi-Buffon-Needle
 1. due time: 20180927 23:59
 2. calculate pi value using Buffon's Needle method, you need to
    * implement the Buffon's Needle method to calculate pi
@@ -63,14 +65,43 @@ and I will add it to this list if suitable; It will be better to come up with ne
 3. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/3_calculate_pi_Liu_Hui/code_template.m)
 4. ```unittest.m```
 
+## 5-calculate-pi-series-expansion
 
-# 5-calculate-pi-series-expansion
 1. due time: 20180927 23:59
 2. **OPTIONAL**
 3. calculate pi value using series expansion
 4. no ```code_template.m``` available
 5. no ```unittest.m```
 
+## 6-evaluate-pi-squared
 
-# more homework is on the way
-tired .... I want to sleep...
+1. **this is a fake homework for demo only**
+2. due time: 20180920 23:59
+3. calculate ```pi^2``` (use built-in ```pi```, no need to calculate pi yourself)
+4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/6_evaluate_pi_squared/code_template.m)
+5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/6_evaluate_pi_squared/unittest.m)
+
+## 7-trapezoidal-rule-integration
+
+1. due time: 20181004 23:59
+2. **OPTIONAL**
+3. implement trapezoidal rule integration method. You can see ```rectangular_rule``` code in TS20180920 for reference (they are quite similar).
+4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/7_trapezoidal_rule_integration/code_template.m)
+5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/7_trapezoidal_rule_integration/unittest.m)
+
+## 8-Simpsom-rule
+
+1. due time: 20181004 23:59
+2. Simpsom's rule integration. detail to be uploaded sooner
+3. ```code_template.m``` and ```unittest.m``` is on the way
+
+## 9-calculate-pi-Monte-Carlo
+
+1. due time: 20181004 23:59
+2. calculate pi using Monte Carlo Integration method. The one-dimensional Monte Carlo Integration method has been provided in ```code_template.m```
+3. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/9_calculate_pi_Monte_Carlo/code_template.m)
+4. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/9_calculate_pi_Monte_Carlo/unittest.m)
+
+## more optional homework are on the way
+
+tired... I want sleep.....
