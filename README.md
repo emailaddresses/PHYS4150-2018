@@ -4,8 +4,6 @@ This is the website for course PHYS4150 Computational Physics, including course 
 
 [link for going back to course website from github](https://husisy.github.io/PHYS4150-2018/)
 
-NOTICE: **after rearrange the website structure, a lot of links are broken. If you find any broken links, PLEASE tell me, many thanks.**
-
 ## website organization
 
 1. [lecture_note](https://github.com/husisy/PHYS4150-2018/tree/master/lecture_note): the course lecture notes distributed by Prof. Wang
