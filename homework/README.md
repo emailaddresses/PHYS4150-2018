@@ -81,13 +81,13 @@ If you find some problems worth sharing (should be related to the course), you c
 4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/6_evaluate_pi_squared/code_template.m)
 5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/6_evaluate_pi_squared/unittest.m)
 
-## 7-trapezoidal-rule-integration
+## 7-trapezoidal-rule
 
 1. due time: 20181004 23:59
 2. **OPTIONAL**
 3. implement trapezoidal rule integration method. You can see ```rectangular_rule``` code in TS20180920 for reference (they are quite similar).
-4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/7_trapezoidal_rule_integration/code_template.m)
-5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/7_trapezoidal_rule_integration/unittest.m)
+4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/7_trapezoidal_rule/code_template.m)
+5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/7_trapezoidal_rule/unittest.m)
 
 ## 8-Simpsom-rule
 

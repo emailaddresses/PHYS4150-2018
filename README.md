@@ -57,7 +57,7 @@ NOTICE: **after rearrange the website structure, a lot of links are broken. If y
    * [4-calculate-pi-Buffon-Needle](https://github.com/husisy/PHYS4150-2018/tree/master/homework#4-calculate-pi-Buffon-Needle) 20180927 23:59
    * [5-calculate-pi-series-expansion](https://github.com/husisy/PHYS4150-2018/tree/master/homework#5-calculate-pi-series-expansion) 20180927 23:59 (optional)
    * [6-evaluate-pi-squared](https://github.com/husisy/PHYS4150-2018/tree/master/homework#6-evaluate-pi-squared) 20180920 23:59 (for demo only)
-   * [7-trapezoidal-rule-integration](https://github.com/husisy/PHYS4150-2018/tree/master/homework#7-trapezoidal-rule-integration) 20181004 23:59
+   * [7-trapezoidal-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#7-trapezoidal-rule) 20181004 23:59
    * [8-Simpsom-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#8-Simpsom-rule) 20180920 23:59
    * [9-calculate-pi-Monte-Carlo](https://github.com/husisy/PHYS4150-2018/tree/master/homework#9-calculate-pi-Monte-Carlo) 20180920 23:59
 
@@ -100,6 +100,7 @@ NOTICE: **after rearrange the website structure, a lot of links are broken. If y
    * rearrange ```lecture_note```; move some lecture notes (old-version) into ```old_version``` folder; add some new lecture note (e.g. Gaussian quadrature)
    * move ```course information``` and ```contribution and license``` into subfolders, you could still view these content via the links below
    * update ```FAQ```
+   * update ```TS20180920```
 2. [history note](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/update_note.md)
 
 ## Course Information
@@ -119,5 +120,5 @@ move to [sub-link](https://github.com/husisy/PHYS4150-2018/tree/master/misc/mark
 5. add unittest.m instruction
 6. optional homework6 and homework7
 7. mathjax support
-8. add Tentative Syllabus
+8. merge tutorial session to Syllabus
 9. Simplified / Traditional Chinese version
