@@ -69,15 +69,6 @@ NOTICE: **after rearrange the website structure, a lot of links are broken. If y
    * [8-Simpsom-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#8-simpsom-rule) 20181004 23:59
    * [9-calculate-pi-Monte-Carlo](https://github.com/husisy/PHYS4150-2018/tree/master/homework#9-calculate-pi-monte-carlo) 20181004 23:59
 
-## tutorials session
-
-1. not start yet
-   * [ ] (every week) Thursday 11:30-12:20 (10:30-11:20 for lecture)
-   * [ ] 20180926 (Wed) 11:30-12:20 MBG07, Main Building
-   * [ ] 20181010 (Wed) 11:30-12:20 MBG07, Main Building
-   * [ ] 20181031 (Wed) 11:30-12:20 MBG07, Main Building
-   * [ ] 20181121 (Wed) 11:30-13:20 MBG07, Main Building
-
 ## Instruction
 
 1. [how to view / download file from this repo](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/view_and_download_file.md)
