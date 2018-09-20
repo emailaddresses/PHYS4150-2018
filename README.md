@@ -35,7 +35,7 @@ NOTICE: **after rearrange the website structure, a lot of links are broken. If y
 7. focus on the course algorithms, try to understand, implement, and apply them to real physics problem
 8. start woking on the homework, submit your homeworks before the due date via email by following [these instruction](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/submit_and_collect_homework.md)
 
-## Syllabus
+## Tentative Syllabus
 
 | date | topic | place | other info |
 | --- | --- | --- | --- |
@@ -44,8 +44,16 @@ NOTICE: **after rearrange the website structure, a lot of links are broken. If y
 | Sep 12 11:30-12:20 | tutorial - introduction to programming | MBG07 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180912) |
 | Sep 13 10:30-11:20 | lecture02 - integral | LE6 | |
 | Sep 13 11:30-12:20 | tutorial - prime number and pi | LE6 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180913), HW2-5, due at 20180927 23:59 |
-| Sep 20 10:30-11:20 | lecture02 - Gaussian quadrature | |
+| Sep 20 10:30-11:20 | lecture02 - Gaussian quadrature | LE6 | |
 | Sep 20 11:30-12:20 | tutorial - integration | LE6 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180920), HW7-9 due at 20181004 23:59 |
+| Sep 24 11:30-12:20 | lecture | LE6 | |
+| Sep 26 11:30-12:20 | tutorial | MBG07 | |
+| Sep 27 10:30-11:20 | lecture | LE6 | |
+| Sep 27 11:30-12:20 | tutorial | LE6 | |
+| To Be Added | | | |
+| Oct 10 11:30-12:20 | tutorial | MBG07 | |
+| Oct 31 11:30-12:20 | tutorial | MBG07 | |
+| Nov 21 11:30-13:20 | tutorial | MBG07 | |
 
 ## homework
 
