@@ -97,6 +97,7 @@ NOTICE: **after rearrange the website structure, a lot of links are broken. If y
    * move ```course information``` and ```contribution and license``` into subfolders, you could still view these content via the links below
    * update ```FAQ```
    * update ```TS20180920```
+   * add ```tentative syllabus```
 2. [history note](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/update_note.md)
 
 ## Course Information
