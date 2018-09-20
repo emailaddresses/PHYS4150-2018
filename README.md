@@ -4,6 +4,8 @@ This is the website for course PHYS4150 Computational Physics, including course 
 
 [link for going back to course website from github](https://husisy.github.io/PHYS4150-2018/)
 
+NOTICE: **classromm for tutorial session Sep. 26 change to MB113G**
+
 ## website organization
 
 1. [lecture_note](https://github.com/husisy/PHYS4150-2018/tree/master/lecture_note): the course lecture notes distributed by Prof. Wang
@@ -43,9 +45,9 @@ This is the website for course PHYS4150 Computational Physics, including course 
 | Sep 13 10:30-11:20 | lecture02 - integral | LE6 | |
 | Sep 13 11:30-12:20 | tutorial - prime number and pi | LE6 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180913), HW2-5, due at 20180927 23:59 |
 | Sep 20 10:30-11:20 | lecture02 - Gaussian quadrature | LE6 | |
-| Sep 20 11:30-12:20 | tutorial - integration | LE6 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180920), HW7-9 due at 20181004 23:59 |
+| Sep 20 11:30-12:20 | tutorial - integration | LE6 | |
 | Sep 24 11:30-12:20 | lecture | LE6 | |
-| Sep 26 11:30-12:20 | tutorial | MBG07 | |
+| Sep 26 11:30-12:20 | tutorial | MB113G | |
 | Sep 27 10:30-11:20 | lecture | LE6 | |
 | Sep 27 11:30-12:20 | tutorial | LE6 | |
 | To Be Added | | | |
@@ -63,9 +65,6 @@ This is the website for course PHYS4150 Computational Physics, including course 
    * [4-calculate-pi-Buffon-Needle](https://github.com/husisy/PHYS4150-2018/tree/master/homework#4-calculate-pi-buffon-needle) 20180927 23:59
    * [5-calculate-pi-series-expansion](https://github.com/husisy/PHYS4150-2018/tree/master/homework#5-calculate-pi-series-expansion) 20180927 23:59 (optional)
    * [6-evaluate-pi-squared](https://github.com/husisy/PHYS4150-2018/tree/master/homework#6-evaluate-pi-squared) 20180920 23:59 (for demo only)
-   * [7-trapezoidal-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#7-trapezoidal-rule) 20181004 23:59
-   * [8-Simpsom-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#8-simpsom-rule) 20181004 23:59
-   * [9-calculate-pi-Monte-Carlo](https://github.com/husisy/PHYS4150-2018/tree/master/homework#9-calculate-pi-monte-carlo) 20181004 23:59
 
 ## Instruction
 

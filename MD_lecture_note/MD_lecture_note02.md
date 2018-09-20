@@ -18,3 +18,6 @@
    * evaluate at end point of each interval
    * leading error: *TODO*
 5. Simpsom's rule
+6. Monte Carlo Integration
+7. Gaussian quadrature
+8. improper integral
