@@ -117,5 +117,5 @@ If you find some problems worth sharing (should be related to the course), you c
     2. calculate the weight and then integration following the Gaussian Quadrature formula
 4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/10_Gaussian_Quadrature/code_template.m)
 5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/10_Gaussian_Quadrature/unittest.m)
-6. [```my_legendre.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/10_Gaussian_Quadrature/my_lengendre.m)
-7. [```my_legendre_root.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/10_Gaussian_Quadrature/my_lengendre_root.m)
+6. [```my_legendre.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/10_Gaussian_Quadrature/my_legendre.m)
+7. [```my_legendre_root.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/10_Gaussian_Quadrature/my_legendre_root.m)
