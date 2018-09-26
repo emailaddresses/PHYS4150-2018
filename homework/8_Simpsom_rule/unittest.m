@@ -28,9 +28,9 @@ end
 
 function [hf1, a, b, built_in_ret] = new_test_function()
 tmp1 = rand(1);
-tmp2 = rand(1);
+tmp2 = 20 + rand(1);
 hf1 = @(x) x.^tmp1.*sin(tmp2*x).^2;
 a = rand(1);
-b = rand(1);
+b = rand(1) + a;
 built_in_ret = integral(hf1, a, b);
 end

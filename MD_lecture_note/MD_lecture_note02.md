@@ -21,3 +21,14 @@
 6. Monte Carlo Integration
 7. Gaussian quadrature
 8. improper integral
+
+## differentiation
+
+1. first-order derivative
+   * forward difference
+   * backward difference
+   * central difference
+   * four points formula
+2. second-order derivative
+   * three points formula
+   * five points formula

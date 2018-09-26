@@ -107,3 +107,15 @@ If you find some problems worth sharing (should be related to the course), you c
 2. calculate pi using Monte Carlo Integration method. The one-dimensional Monte Carlo Integration method has been provided in ```code_template.m```
 3. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/9_calculate_pi_Monte_Carlo_Integral/code_template.m)
 4. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/9_calculate_pi_Monte_Carlo_Integral/unittest.m)
+
+## 10-gaussian-quadrature
+
+1. due time: 20181011 23:59
+2. implement Gaussian Quadrature integral method. The root the n-th order Legendre polynomial has been provided.
+3. you need
+    1. calculate the first-order derivative of n-th order Legendre polynomial with either numerical differentiation method or recursion relations (see ```TS20180927/legendre_notebook```)
+    2. calculate the weight and then integration following the Gaussian Quadrature formula
+4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/10_Gaussian_Quadrature/code_template.m)
+5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/10_Gaussian_Quadrature/unittest.m)
+6. [```my_legendre.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/10_Gaussian_Quadrature/my_lengendre.m)
+7. [```my_legendre_root.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/10_Gaussian_Quadrature/my_lengendre_root.m)

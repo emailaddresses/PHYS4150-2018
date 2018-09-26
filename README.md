@@ -4,8 +4,6 @@ This is the website for course PHYS4150 Computational Physics, including course 
 
 [link for going back to course website from github](https://husisy.github.io/PHYS4150-2018/)
 
-NOTICE: **classromm for tutorial session Sep. 26 change to MB113G**
-
 ## website organization
 
 1. [lecture_note](https://github.com/husisy/PHYS4150-2018/tree/master/lecture_note): the course lecture notes distributed by Prof. Wang
@@ -46,10 +44,10 @@ NOTICE: **classromm for tutorial session Sep. 26 change to MB113G**
 | Sep 13 11:30-12:20 | tutorial - prime number and pi | LE6 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180913), HW2-5, due at 20180927 23:59 |
 | Sep 20 10:30-11:20 | lecture02 - Gaussian quadrature | LE6 | |
 | Sep 20 11:30-12:20 | tutorial - integration | LE6 | |
-| Sep 24 11:30-12:20 | lecture | LE6 | |
-| Sep 26 11:30-12:20 | tutorial | MB113G | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180926), HW7-9, due at 20181011 23:59 |
+| Sep 24 11:30-12:20 | lecture - interpolation | LE6 | |
+| Sep 26 11:30-12:20 | tutorial - integration | MB113G | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180926), HW7-9, due at 20181011 23:59 |
 | Sep 27 10:30-11:20 | lecture | LE6 | |
-| Sep 27 11:30-12:20 | tutorial | LE6 | |
+| Sep 27 11:30-12:20 | tutorial - differtiation | LE6 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180927), HW10, due at 20181011 23:59 |
 | To Be Added | | | |
 | Oct 10 11:30-12:20 | tutorial | MBG07 | |
 | Oct 31 11:30-12:20 | tutorial | MBG07 | |
@@ -68,6 +66,7 @@ NOTICE: **classromm for tutorial session Sep. 26 change to MB113G**
    * [7-rectangular-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#7-rectangular-rule) 20181011 23:59
    * [8-Simpsom-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#8-simpsom-rule) 20181011 23:59
    * [9-calculate-pi-Monte-Carlo-Integral](https://github.com/husisy/PHYS4150-2018/tree/master/homework#9-calculate-pi-monte-carlo-integral) 20181011 23:59
+   * [10-Gaussian_Quadrature](https://github.com/husisy/PHYS4150-2018/tree/master/homework#10-gaussian-quadrature) 20181011 23:59
 
 ## Instruction
 
@@ -93,14 +92,7 @@ NOTICE: **classromm for tutorial session Sep. 26 change to MB113G**
 
 ## update note
 
-1. last updated 20180919
-   * merge ```lecture_PPT``` to ```lecture_note```
-   * rearrange ```lecture_note```; move some lecture notes (old-version) into ```old_version``` folder; add some new lecture note (e.g. Gaussian quadrature)
-   * move ```course information``` and ```contribution and license``` into subfolders, you could still view these content via the links below
-   * update ```FAQ```
-   * update ```TS20180920```
-   * add ```tentative syllabus```
-2. [history note](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/update_note.md)
+1. [history note](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/update_note.md)
 
 ## Course Information
 
@@ -116,9 +108,8 @@ move to [sub-link](https://github.com/husisy/PHYS4150-2018/tree/master/misc/mark
 2. FAQ, some of your homework forget to specify whether to put on course website or not
 3. check whether links are valid, especially homewok
 4. homework folder structure
-5. add unittest.m links
-6. add unittest.m instruction
-7. optional homework6 and homework7
-8. mathjax support
-9. merge tutorial session to Syllabus
-10. Simplified / Traditional Chinese version
+5. add unittest.m instruction
+6. optional homework6 and homework7
+7. mathjax support
+8. add ```demo_zone``` section
+9. upload hw6
