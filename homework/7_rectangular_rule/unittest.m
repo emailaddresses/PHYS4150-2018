@@ -6,4 +6,3 @@ b = rand() + a;
 ret1 = integral(hf1, a, b);
 assert(hfe(code_template(hf1, a, b, 500), ret1)<1e-2, 'your function result has large error')
 disp('unittest passed.')
-

@@ -47,7 +47,7 @@ NOTICE: **classromm for tutorial session Sep. 26 change to MB113G**
 | Sep 20 10:30-11:20 | lecture02 - Gaussian quadrature | LE6 | |
 | Sep 20 11:30-12:20 | tutorial - integration | LE6 | |
 | Sep 24 11:30-12:20 | lecture | LE6 | |
-| Sep 26 11:30-12:20 | tutorial | MB113G | |
+| Sep 26 11:30-12:20 | tutorial | MB113G | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180926), HW7-9, due at 20181011 23:59 |
 | Sep 27 10:30-11:20 | lecture | LE6 | |
 | Sep 27 11:30-12:20 | tutorial | LE6 | |
 | To Be Added | | | |
@@ -65,6 +65,9 @@ NOTICE: **classromm for tutorial session Sep. 26 change to MB113G**
    * [4-calculate-pi-Buffon-Needle](https://github.com/husisy/PHYS4150-2018/tree/master/homework#4-calculate-pi-buffon-needle) 20180927 23:59
    * [5-calculate-pi-series-expansion](https://github.com/husisy/PHYS4150-2018/tree/master/homework#5-calculate-pi-series-expansion) 20180927 23:59 (optional)
    * [6-evaluate-pi-squared](https://github.com/husisy/PHYS4150-2018/tree/master/homework#6-evaluate-pi-squared) 20180920 23:59 (for demo only)
+   * [7-rectangular-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#7-rectangular-rule) 20181011 23:59
+   * [8-Simpsom-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#8-simpsom-rule) 20181011 23:59
+   * [9-calculate-pi-Monte-Carlo-Integral](https://github.com/husisy/PHYS4150-2018/tree/master/homework#9-calculate-pi-monte-carlo-integral) 20181011 23:59
 
 ## Instruction
 
@@ -85,6 +88,8 @@ NOTICE: **classromm for tutorial session Sep. 26 change to MB113G**
 3. should I implement or improve the codes as the course website indicates or rewrite these code from myself?
    > it would be better if you implement or improve the codes as the course website indicates. Still, if you find those code don't help too much , you could rewrite them from empty.
    > remember to add basic information, e.g. name, uid, etc.
+4. why got ```error, code_template is not found in the current folder or on the MATLAB path``` when I run ```unittest.m```?
+   > DO NOT change the filename ```code_template.m``` since ```unittest.m``` trys to call function ```code_template()```
 
 ## update note
 
@@ -108,11 +113,12 @@ move to [sub-link](https://github.com/husisy/PHYS4150-2018/tree/master/misc/mark
 ## course website TO-DO-LIST
 
 1. *(personal prejudice towards Octave) WARNING: I will remove Octave compatibility one week after the course finish. If you want to keep this part, you should fork this repo before that*
-2. check whether links are valid, especially homewok
-3. homework folder structure
-4. add unittest.m links
-5. add unittest.m instruction
-6. optional homework6 and homework7
-7. mathjax support
-8. merge tutorial session to Syllabus
-9. Simplified / Traditional Chinese version
+2. FAQ, some of your homework forget to specify whether to put on course website or not
+3. check whether links are valid, especially homewok
+4. homework folder structure
+5. add unittest.m links
+6. add unittest.m instruction
+7. optional homework6 and homework7
+8. mathjax support
+9. merge tutorial session to Syllabus
+10. Simplified / Traditional Chinese version

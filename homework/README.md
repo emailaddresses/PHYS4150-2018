@@ -81,3 +81,29 @@ If you find some problems worth sharing (should be related to the course), you c
 4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/6_evaluate_pi_squared/code_template.m)
 5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/6_evaluate_pi_squared/unittest.m)
 
+## 7-rectangular-rule
+
+1. due time: 20181011 23:59
+2. **OPTIONAL**
+3. implement rectangular rule integration method. You can see ```rectangular_rule``` code in TS20180920 for reference (they are quite similar).
+4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/7_trapezoidal_rule/code_template.m)
+5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/7_trapezoidal_rule/unittest.m)
+
+## 8-Simpsom-rule
+
+1. due time: 20181011 23:59
+2. implement adaptive Simpsom integral rule. Your adaptive version should give exactly same results as naive one given the suitable ```num_points``` and ```num_iter```
+3. useful materials:
+   * [```my_naive_simpsom_integral.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/8_Simpsom_rule/my_naive_simpsom_integral.m)
+   * [```my_naive_trapezoidal_integral.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/8_Simpsom_rule/my_naive_trapezoidal_integral.m)
+   * [```my_adaptive_trapezoidal_integral.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/8_Simpsom_rule/my_adaptive_trapezoidal_integral.m)
+   * [```unittest_trapezoidal_integral.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/8_Simpsom_rule/unittest_trapezoidal_integral.m)
+4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/8_Simpsom_rule/code_template.m)
+5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/8_Simpsom_rule/unittest.m)
+
+## 9-calculate-pi-Monte-Carlo-Integral
+
+1. due time: 20181011 23:59
+2. calculate pi using Monte Carlo Integration method. The one-dimensional Monte Carlo Integration method has been provided in ```code_template.m```
+3. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/9_calculate_pi_Monte_Carlo/code_template.m)
+4. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/9_calculate_pi_Monte_Carlo/unittest.m)

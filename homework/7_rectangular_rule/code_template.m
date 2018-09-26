@@ -8,16 +8,15 @@ right reserved for [e.g. A. Einstein; this will show on github if select yes abo
 %}
 
 function ret = code_template(hf1, a, b, num_point)
-% trapezoidal rule
+% rectangular rule
 % hf1: function handle
 %    e.g. hf1=@(x) 3x
 %    more detail see doc('function handle')
 % a: lower limit
 % b: upper limit
 % num_point: number of evaluation point (more point, more accurate)
-x = linspace(a,b,num_point);
 %----- start coding from here ----
+x = ;
 ret = ;
 % ---- end coding ----
 end
-
