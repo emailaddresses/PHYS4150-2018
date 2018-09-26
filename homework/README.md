@@ -45,7 +45,7 @@ If you find some problems worth sharing (should be related to the course), you c
    * understand the code in ```code_template.m```
    * implement these two improvements
 4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/2_optimization_generate_K_prime_number/code_template.m)
-5. ```unittest.m```
+5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/2_optimization_generate_K_prime_number/unittest.m)
 
 ## 3-calculate-pi-Liu-Hui
 
@@ -54,7 +54,7 @@ If you find some problems worth sharing (should be related to the course), you c
    * you are required to print out ```n,  pi_n``` every recursive step
    * paste yoru print out to the comment blocks in the ```code_template.m``` as part of your homework
 3. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/3_calculate_pi_Liu_Hui/code_template.m)
-4. ```unittest.m```
+4. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/3_calculate_pi_Liu_Hui/unittest.m)
 
 ## 4-calculate-pi-Buffon-Needle
 
@@ -63,7 +63,7 @@ If you find some problems worth sharing (should be related to the course), you c
    * implement the Buffon's Needle method to calculate pi
    * add your report (e.g. try different number of drops) to the comment blocks in the ```code_template.m``` (several sentences are enough)
 3. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/3_calculate_pi_Liu_Hui/code_template.m)
-4. ```unittest.m```
+4. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/3_calculate_pi_Liu_Hui/unittest.m)
 
 ## 5-calculate-pi-series-expansion
 
@@ -71,7 +71,7 @@ If you find some problems worth sharing (should be related to the course), you c
 2. **OPTIONAL**
 3. calculate pi value using series expansion
 4. no ```code_template.m``` available
-5. no ```unittest.m```
+5. no ```unittest.m``` available
 
 ## 6-evaluate-pi-squared
 
