@@ -127,3 +127,4 @@ move to [sub-link](https://github.com/husisy/PHYS4150-2018/tree/master/misc/mark
 7. mathjax support
 8. add ```demo_zone``` section, including ```solution```
 9. upload hw6
+10. solution for hwk, summary for every chapter
