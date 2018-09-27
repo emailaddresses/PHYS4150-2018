@@ -38,18 +38,23 @@ This is the website for course PHYS4150 Computational Physics, including course 
 | date | topic | place | other info |
 | --- | --- | --- | --- |
 | Sep 3 11:30-12:20 | lecture-introduction | LE6 | |
-| Sep 6 11:30-12:20 | lecture02 | LE6 | |
+| Sep 6 11:30-12:20 | lecture - introduction | LE6 | |
 | Sep 12 11:30-12:20 | tutorial - introduction to programming | MBG07 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180912) |
-| Sep 13 10:30-11:20 | lecture02 - integral | LE6 | |
+| Sep 13 10:30-11:20 | lecture - integral | LE6 | |
 | Sep 13 11:30-12:20 | tutorial - prime number and pi | LE6 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180913), HW2-5, due at 20180927 23:59 |
-| Sep 20 10:30-11:20 | lecture02 - Gaussian quadrature | LE6 | |
+| Sep 20 10:30-11:20 | lecture - Gaussian quadrature | LE6 | |
 | Sep 20 11:30-12:20 | tutorial - integration | LE6 | |
 | Sep 24 11:30-12:20 | lecture - interpolation | LE6 | |
 | Sep 26 11:30-12:20 | tutorial - integration | MB113G | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180926), HW7-9, due at 20181011 23:59 |
-| Sep 27 10:30-11:20 | lecture | LE6 | |
+| Sep 27 10:30-11:20 | lecture - interpolation | LE6 | |
 | Sep 27 11:30-12:20 | tutorial - differtiation | LE6 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180927), HW10, due at 20181011 23:59 |
-| To Be Added | | | |
+| Oct 4 10:30-11:20 | lecture | LE6 | |
+| Oct 4 11:30-12:20 | tutorial | LE6 | |
+| Oct 8 11:30-12:20 | lecture | LE6 | |
 | Oct 10 11:30-12:20 | tutorial | MBG07 | |
+| Oct 11 10:30-11:20 | lecture | LE6 | |
+| Oct 11 11:30-12:20 | tutorial | LE6 | |
+| To Be Added | | | |
 | Oct 31 11:30-12:20 | tutorial | MBG07 | |
 | Nov 21 11:30-13:20 | tutorial | MBG07 | |
 
@@ -106,7 +111,7 @@ This is the website for course PHYS4150 Computational Physics, including course 
 
 ## update note
 
-1. [history note](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/update_note.md)
+move to [sub-link](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/update_note.md). NOT maintained.
 
 ## Course Information
 
@@ -123,8 +128,7 @@ move to [sub-link](https://github.com/husisy/PHYS4150-2018/tree/master/misc/mark
 3. check whether links are valid, especially homewok
 4. homework folder structure
 5. add unittest.m instruction
-6. optional homework6 and homework7
-7. mathjax support
-8. add ```demo_zone``` section, including ```solution```
-9. upload hw6
-10. solution for hwk, summary for every chapter
+6. mathjax support
+7. add ```demo_zone``` section, including ```solution```
+8. upload hw6
+9. solution for hwk, summary for every chapter
