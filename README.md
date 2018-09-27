@@ -29,7 +29,7 @@ This is the website for course PHYS4150 Computational Physics, including course 
    * [Octave installation](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/Octave_installation.md)
 4. download tutorial materials
 5. go through optioal assignment [1-programming-get-started](https://github.com/husisy/PHYS4150-2018/tree/master/homework#1-programming-get-started) to get familar with Octave / MATLAB
-6. read the lecture notes and other usefull materials as course is going on
+6. read the lecture notes and other useful materials as course is going on
 7. focus on the course algorithms, try to understand, implement, and apply them to real physics problem
 8. start woking on the homework, submit your homeworks before the due date via email by following [these instruction](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown/submit_and_collect_homework.md)
 
@@ -67,6 +67,20 @@ This is the website for course PHYS4150 Computational Physics, including course 
    * [8-Simpsom-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#8-simpsom-rule) 20181011 23:59
    * [9-calculate-pi-Monte-Carlo-Integral](https://github.com/husisy/PHYS4150-2018/tree/master/homework#9-calculate-pi-monte-carlo-integral) 20181011 23:59
    * [10-Gaussian_Quadrature](https://github.com/husisy/PHYS4150-2018/tree/master/homework#10-gaussian-quadrature) 20181011 23:59
+
+| list | demo |
+| --- | --- |
+| hw0 | not applied |
+| hw1 | not applied |
+| hw2 | TBA |
+| hw3 | TBA |
+| hw4 | TBA |
+| hw5 | TBA |
+| hw6 | TBA |
+| hw7 | TBA |
+| hw8 | TBA |
+| hw9 | TBA |
+| hw10 | TBA |
 
 ## Instruction
 
@@ -111,5 +125,5 @@ move to [sub-link](https://github.com/husisy/PHYS4150-2018/tree/master/misc/mark
 5. add unittest.m instruction
 6. optional homework6 and homework7
 7. mathjax support
-8. add ```demo_zone``` section
+8. add ```demo_zone``` section, including ```solution```
 9. upload hw6
