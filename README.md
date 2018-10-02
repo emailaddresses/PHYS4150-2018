@@ -4,6 +4,8 @@ This is the website for course PHYS4150 Computational Physics, including course 
 
 [link for going back to course website from github](https://husisy.github.io/PHYS4150-2018/)
 
+NOTICE: *for homework2, 3, 4, 5, solutions and demo homework have been uploaded. Click the [link](https://github.com/husisy/PHYS4150-2018/tree/master/homework) and go to the corresponing folder.*
+
 ## website organization
 
 1. [lecture_note](https://github.com/husisy/PHYS4150-2018/tree/master/lecture_note): the course lecture notes distributed by Prof. Wang
@@ -72,20 +74,6 @@ This is the website for course PHYS4150 Computational Physics, including course 
    * [8-Simpsom-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#8-simpsom-rule) 20181011 23:59
    * [9-calculate-pi-Monte-Carlo-Integral](https://github.com/husisy/PHYS4150-2018/tree/master/homework#9-calculate-pi-monte-carlo-integral) 20181011 23:59
    * [10-Gaussian_Quadrature](https://github.com/husisy/PHYS4150-2018/tree/master/homework#10-gaussian-quadrature) 20181011 23:59
-
-| list | demo |
-| --- | --- |
-| hw0 | not applied |
-| hw1 | not applied |
-| hw2 | TBA |
-| hw3 | TBA |
-| hw4 | TBA |
-| hw5 | TBA |
-| hw6 | TBA |
-| hw7 | TBA |
-| hw8 | TBA |
-| hw9 | TBA |
-| hw10 | TBA |
 
 ## Instruction
 
