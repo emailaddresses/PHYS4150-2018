@@ -1,4 +1,14 @@
 function unittest()
+if ~exist('code_template.m', 'file')
+    error('DO NOT rename code_template.m')
+end
+if ~exist('my_legendre.m', 'file')
+    error('go to download my_legendre.m from course website')
+end
+if ~exist('my_legendre_root.m', 'file')
+    error('go to download my_legendre_root.m from course website')
+end
+
 hfe = @(x,y) max(reshape(abs(x-y)./(abs(x)+abs(y)+1e-3),[],1));
 hfe_r5 = @(x,y) round(hfe(x,y)*1e5)/1e5;
 
