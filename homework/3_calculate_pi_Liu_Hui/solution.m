@@ -5,7 +5,8 @@ n = 6;
 while n<10000
     n = n*2;
     x = sqrt(2+x);
-    pi_n = n/4*sqrt(4-x^2);
+    pi_n = n/4*sqrt(4-x^2); %h = sqrt(1-L^2/4)
+    % pi_n = n/2*sqrt(2-x); %h=1
     fprintf('n, my_pi = %10d,  %.15f\n', n, pi_n)
 end
 end
