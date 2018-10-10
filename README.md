@@ -56,8 +56,8 @@ NOTICE: *for homework2, 3, 4, 5, solutions and demo homework have been uploaded.
 | Sep 27 11:30-12:20 | tutorial - differtiation | LE6 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20180927), HW10, due at 20181011 23:59 |
 | Oct 4 10:30-11:20 | lecture - [Pade approximant](https://github.com/husisy/PHYS4150-2018/tree/master/lecture_note/Pade.pdf), [FFT](https://github.com/husisy/PHYS4150-2018/tree/master/lecture_note/DFT.pdf) | LE6 | |
 | Oct 4 11:30-12:20 | tutorial - chapter1 summary | LE6 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20181004) |
-| Oct 8 11:30-12:20 | lecture | LE6 | |
-| Oct 10 11:30-12:20 | tutorial | MBG07 | |
+| Oct 8 11:30-12:20 | lecture - [root finding](https://github.com/husisy/PHYS4150-2018/tree/master/lecture_note/root_finding.pdf) | LE6 | |
+| Oct 10 11:30-12:20 | tutorial - interpolation  | MBG07 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20181010) |
 | Oct 11 10:30-11:20 | lecture | LE6 | |
 | Oct 11 11:30-12:20 | tutorial | LE6 | |
 | To Be Added | | | |
@@ -78,6 +78,7 @@ NOTICE: *for homework2, 3, 4, 5, solutions and demo homework have been uploaded.
    * [8-Simpsom-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#8-simpsom-rule) 20181011 23:59
    * [9-calculate-pi-Monte-Carlo-Integral](https://github.com/husisy/PHYS4150-2018/tree/master/homework#9-calculate-pi-monte-carlo-integral) 20181011 23:59
    * [10-Gaussian_Quadrature](https://github.com/husisy/PHYS4150-2018/tree/master/homework#10-gaussian-quadrature) 20181011 23:59
+   * [11-neville-interpolation](https://github.com/husisy/PHYS4150-2018/tree/master/homework#11-neville-interpolation) 20181025 23:59 (optional)
 
 ## Instruction
 

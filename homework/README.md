@@ -119,3 +119,11 @@ If you find some problems worth sharing (should be related to the course), you c
 5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/10_Gaussian_Quadrature/unittest.m)
 6. [```my_legendre.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/10_Gaussian_Quadrature/my_legendre.m)
 7. [```my_legendre_root.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/10_Gaussian_Quadrature/my_legendre_root.m)
+
+## 11-neville-interpolation
+
+1. due time: 20181025 23:59
+2. implement Neville interpolation method
+3. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/11_neville_interpolation/code_template.m)
+4. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/11_neville_interpolation/unittest.m)
+5. [```my_lagrangian_interpolation```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/11_neville_interpolation/my_lagrangian_interpolation.m)
