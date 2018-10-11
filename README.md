@@ -79,7 +79,7 @@ NOTICE: *for homework2, 3, 4, 5, solutions and demo homework have been uploaded.
    * [9-calculate-pi-Monte-Carlo-Integral](https://github.com/husisy/PHYS4150-2018/tree/master/homework#9-calculate-pi-monte-carlo-integral) 20181011 23:59
    * [10-Gaussian_Quadrature](https://github.com/husisy/PHYS4150-2018/tree/master/homework#10-gaussian-quadrature) 20181011 23:59
    * [11-neville-interpolation](https://github.com/husisy/PHYS4150-2018/tree/master/homework#11-neville-interpolation) 20181025 23:59 (optional)
-   * [11-pade-approximation](https://github.com/husisy/PHYS4150-2018/tree/master/homework#12-pade-approximation) 20181025 23:59
+   * [12-pade-approximation](https://github.com/husisy/PHYS4150-2018/tree/master/homework#12-pade-approximation) 20181025 23:59
    * [13-ifft](https://github.com/husisy/PHYS4150-2018/tree/master/homework#13-ifft) 20181025 23:59 (optional)
    * [14-legendre-root](https://github.com/husisy/PHYS4150-2018/tree/master/homework#14-legendre-root) 20181025 23:59
 
