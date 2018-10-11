@@ -66,22 +66,23 @@ NOTICE: *for homework2, 3, 4, 5, solutions and demo homework have been uploaded.
 
 ## homework
 
-1. [homework list](https://github.com/husisy/PHYS4150-2018/tree/master/homework) (2018xxxx xx:xx is due time)
-   * [0-square-root-of-complex-number](https://github.com/husisy/PHYS4150-2018/tree/master/homework#0-square-root-of-complex-number) (for demo only)
-   * [1-programming-get-started](https://github.com/husisy/PHYS4150-2018/tree/master/homework#1-programming-get-started) (ungraded and nothing need to submit)
-   * [2-optimization-generate-K-prime-number](https://github.com/husisy/PHYS4150-2018/tree/master/homework#2-optimization-generate-k-prime-number) 20180927 23:59
-   * [3-calculate-pi-Liu-Hui](https://github.com/husisy/PHYS4150-2018/tree/master/homework#3-calculate-pi-liu-hui) 20180927 23:59
-   * [4-calculate-pi-Buffon-Needle](https://github.com/husisy/PHYS4150-2018/tree/master/homework#4-calculate-pi-buffon-needle) 20180927 23:59
-   * [5-calculate-pi-series-expansion](https://github.com/husisy/PHYS4150-2018/tree/master/homework#5-calculate-pi-series-expansion) 20180927 23:59 (optional)
-   * [6-evaluate-pi-squared](https://github.com/husisy/PHYS4150-2018/tree/master/homework#6-evaluate-pi-squared) 20180920 23:59 (for demo only)
-   * [7-rectangular-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#7-rectangular-rule) 20181011 23:59
-   * [8-Simpsom-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#8-simpsom-rule) 20181011 23:59
-   * [9-calculate-pi-Monte-Carlo-Integral](https://github.com/husisy/PHYS4150-2018/tree/master/homework#9-calculate-pi-monte-carlo-integral) 20181011 23:59
-   * [10-Gaussian_Quadrature](https://github.com/husisy/PHYS4150-2018/tree/master/homework#10-gaussian-quadrature) 20181011 23:59
-   * [11-neville-interpolation](https://github.com/husisy/PHYS4150-2018/tree/master/homework#11-neville-interpolation) 20181025 23:59 (optional)
-   * [12-pade-approximation](https://github.com/husisy/PHYS4150-2018/tree/master/homework#12-pade-approximation) 20181025 23:59
-   * [13-ifft](https://github.com/husisy/PHYS4150-2018/tree/master/homework#13-ifft) 20181025 23:59 (optional)
-   * [14-legendre-root](https://github.com/husisy/PHYS4150-2018/tree/master/homework#14-legendre-root) 20181025 23:59
+| hwk | due time |
+| --- | --- |
+| [0-square-root-of-complex-number](https://github.com/husisy/PHYS4150-2018/tree/master/homework#0-square-root-of-complex-number) | for demo only |
+| [1-programming-get-started](https://github.com/husisy/PHYS4150-2018/tree/master/homework#1-programming-get-started) | ungraded and nothing need to submit |
+| [2-optimization-generate-K-prime-number](https://github.com/husisy/PHYS4150-2018/tree/master/homework#2-optimization-generate-k-prime-number) | 20180927 23:59 |
+| [3-calculate-pi-Liu-Hui](https://github.com/husisy/PHYS4150-2018/tree/master/homework#3-calculate-pi-liu-hui) | 20180927 23:59 |
+| [4-calculate-pi-Buffon-Needle](https://github.com/husisy/PHYS4150-2018/tree/master/homework#4-calculate-pi-buffon-needle) | 20180927 23:59 |
+| [5-calculate-pi-series-expansion](https://github.com/husisy/PHYS4150-2018/tree/master/homework#5-calculate-pi-series-expansion) | 20180927 23:59 (optional) |
+| [6-evaluate-pi-squared](https://github.com/husisy/PHYS4150-2018/tree/master/homework#6-evaluate-pi-squared) | for demo only |
+| [7-rectangular-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#7-rectangular-rule) | 20181011 23:59 |
+| [8-Simpsom-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#8-simpsom-rule) | 20181011 23:59 |
+| [9-calculate-pi-Monte-Carlo-Integral](https://github.com/husisy/PHYS4150-2018/tree/master/homework#9-calculate-pi-monte-carlo-integral) | 20181011 23:59 |
+| [10-Gaussian_Quadrature](https://github.com/husisy/PHYS4150-2018/tree/master/homework#10-gaussian-quadrature) | 20181011 23:59 |
+| [11-neville-interpolation](https://github.com/husisy/PHYS4150-2018/tree/master/homework#11-neville-interpolation) | 20181025 23:59 (optional) |
+| [12-pade-approximation](https://github.com/husisy/PHYS4150-2018/tree/master/homework#12-pade-approximation) | 20181025 23:59 |
+| [13-ifft](https://github.com/husisy/PHYS4150-2018/tree/master/homework#13-ifft) | 20181025 23:59 (optional) |
+| [14-legendre-root](https://github.com/husisy/PHYS4150-2018/tree/master/homework#14-legendre-root) | 20181025 23:59 |
 
 ## Instruction
 
@@ -97,8 +98,8 @@ NOTICE: *for homework2, 3, 4, 5, solutions and demo homework have been uploaded.
    > see [official documentation](https://www.mathworks.com/help/matlab/matlab_prog/what-is-a-live-script-or-function.html;jsessionid=9a500aa277e7aa38ca708835117a). It's a good tool for demostration, but personally I do not recommand to use it for other use as currently ```.mlx``` is a little bit slower than that in ```.m``` or in command window.
 2. can I use Python in this course
    > you could use Python to finish the homework, but we will not supply ```code_template.py``` for Python.
-   > the basic info should be included in your submission. ```name```, ```uid```, ```whether to put on course website```, ```right reserved info```
-   > for the final course project, you ```must``` use Octave/MATLAB. The project using Python will not be graded.
+   > the basic info should be included in your submission. ```name```, ```uid```, ```whether to put on course website```, ```right reserved info```.
+   > For the final course project, you ```must``` use Octave/MATLAB. The project using Python will not be graded.
 3. should I implement or improve the codes as the course website indicates or rewrite these code from myself?
    > it would be better if you implement or improve the codes as the course website indicates. Still, if you find those code don't help too much , you could rewrite them from empty.
    > remember to add basic information, e.g. name, uid, etc.
@@ -128,3 +129,4 @@ move to [sub-link](https://github.com/husisy/PHYS4150-2018/tree/master/misc/mark
 7. summary ```wiki link, implementation, unittest, builtin available, .```
 8. add flow chart for algorithm
 9. add python support
+10. add project requirement
