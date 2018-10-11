@@ -124,6 +124,41 @@ If you find some problems worth sharing (should be related to the course), you c
 
 1. due time: 20181025 23:59
 2. implement Neville interpolation method
-3. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/11_neville_interpolation/code_template.m)
-4. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/11_neville_interpolation/unittest.m)
-5. [```my_lagrangian_interpolation```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/11_neville_interpolation/my_lagrangian_interpolation.m)
+3. useful material
+    * ```TS20181010.pptx``` page ```6-7``` shows algorithm steps
+    * ```lectucture03.pdf``` give detail explaination about this algorithm
+4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/11_neville_interpolation/code_template.m)
+5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/11_neville_interpolation/unittest.m)
+6. [```my_lagrangian_interpolation```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/11_neville_interpolation/my_lagrangian_interpolation.m)
+
+## 12-pade-approximation
+
+1. due time: 20181025 23:59
+2. Implement Pade approximation
+3. useful materials
+   * ```unittest.m``` will plot the target function and your approximated function to help you debug
+   * ```TS20181011.pptx``` page ```6-7``` shows algorithm steps
+   * ```lecture03.pdf``` and wiki gives detailed algorithm explanation
+4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/12_pade_approximation/code_template.m)
+5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/12_pade_approximation/unittest.m)
+
+## 13-ifft
+
+1. due time: 20181025 23:59
+2. Implement Inverse Fast Fourier Transformation (IFFT)
+3. useful materials
+   * ```my_fft.m``` uses almost same steps. you could see use code snippet for reference
+   * ```TS20181011.pptx``` page ```12``` shows detailed FFT algorithm steps
+   * ```lecture03.pdf``` and wiki give algorithm explanation
+4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/13_ifft/code_template.m)
+5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/13_ifft/unittest.m)
+6. [```my_fft.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/13_ifft/my_fft.m)
+
+
+## 14-legendre-root
+
+1. due time: 20181025 23:59
+2. In hwk10, Gauss Quadrature integral, you have implemented part of the whole algorithm (calculate first order derivative). In this hwk, you are required to find N roots of N-order Legendre polynomial using bisection or Newton-Raphson method, instead of using my_legedre_root.m as in hwk10.
+3. useful materials
+   * root finding methods ```my_bisection.m``` and ```my_newton_raphson.m``` are provided
+4. to be uploaded after hwk10 due time
