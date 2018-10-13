@@ -167,5 +167,3 @@ If you find some problems worth sharing (should be related to the course), you c
 7. [```my_legendre_root.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/my_legendre_root.m)
 8. [```my_bisection.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/my_bisection.m)
 9. [```my_newton_raphson.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/my_newton_raphson.m)
-10. [```my_fft.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/my_fft.m)
-
