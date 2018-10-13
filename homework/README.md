@@ -161,4 +161,11 @@ If you find some problems worth sharing (should be related to the course), you c
 2. In hwk10, Gauss Quadrature integral, you have implemented part of the whole algorithm (calculate first order derivative). In this hwk, you are required to find N roots of N-order Legendre polynomial using bisection or Newton-Raphson method, instead of using my_legedre_root.m as in hwk10.
 3. useful materials
    * root finding methods ```my_bisection.m``` and ```my_newton_raphson.m``` are provided
-4. to be uploaded after hwk10 due time
+4. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/code_template.m)
+5. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/unittest.m)
+6. [```my_legendre.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/my_legendre.m)
+7. [```my_legendre_root.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/my_legendre_root.m)
+8. [```my_bisection.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/my_bisection.m)
+9. [```my_newton_raphson.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/my_newton_raphson.m)
+10. [```my_fft.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/my_fft.m)
+
