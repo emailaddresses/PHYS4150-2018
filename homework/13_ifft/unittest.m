@@ -20,6 +20,4 @@ disp(['relative error: ', num2str(hfe_r5(ret1,x),7)])
 x = rand(1,128);
 ret1 = code_template(fft(x));
 disp(['relative error: ', num2str(hfe_r5(ret1,x),7)])
-
-disp('unittest passed');
 end
