@@ -1,9 +1,5 @@
 %{
-complete infomation in the sqare brackets []
-name: [e.g. Albert Einstein; this is for grading]
-uid: [e.g. 31415926535]
-put on course website: [yes or no]
-right reserved for [e.g. A. Einstein; this will show on github if select yes above]
+right reserved for [Scarecrowy]
 %}
 
 function ret = code_template(hf1, a, b, num_order)
@@ -14,8 +10,15 @@ function ret = code_template(hf1, a, b, num_order)
 % b(float)
 % num_order(int): order of legendre polynomial
 % (ret)float
+h = 1e-3;
 root_legendre = my_legendre_root(num_order);
-%---start from here---
-ret = 0;
+[~,hf2] = my_legendre(num_order);
+
+Pn_1 = (hf2(root_legendre+h/2) - hf2(root_legendre-h/2))./h;
+Pn_12 = Pn_1.^2;
+w_i = 2./((1-root_legendre.^2).*Pn_12);
+fxi = hf1(0.5*(b-a)*root_legendre+0.5*(a+b));
+ret = sum(w_i.*fxi);
+ret = (b-a)/2*ret; 
 %---end---
 end

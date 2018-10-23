@@ -1,9 +1,5 @@
 %{
-complete infomation in the sqare brackets []
-name: [e.g. Albert Einstein; this is for grading]
-uid: [e.g. 31415926535]
-put on course website: [yes or no]
-right reserved for [e.g. A. Einstein; this will show on github if select yes above]
+right reserved for [Red Scarf]
 %}
 
 function ret = code_template(hf1, a, b, num_order)
@@ -16,6 +12,16 @@ function ret = code_template(hf1, a, b, num_order)
 % (ret)float
 root_legendre = my_legendre_root(num_order);
 %---start from here---
-ret = 0;
+sum=0;
+for i=1:num_order
+  [~,Pn]=my_legendre(num_order);
+  [~,Pnn]=my_legendre(num_order-1);
+  xi=root_legendre(i,1);
+  DPn=num_order/(xi^2-1)*(xi*Pn(xi)-Pnn(xi));
+  wi=2/((1-xi^2)*DPn^2);
+  sum+=wi*hf1((b-a)/2*xi+(b+a)/2);
+endfor
+ret = (b-a)/2*sum;
 %---end---
-end
+endfunction
+

@@ -75,7 +75,7 @@ NOTICE: *for homework2, 3, 4, 5, solutions and demo homework have been uploaded.
 | [4-calculate-pi-Buffon-Needle](https://github.com/husisy/PHYS4150-2018/tree/master/homework#4-calculate-pi-buffon-needle) | 20180927 23:59 |
 | [5-calculate-pi-series-expansion](https://github.com/husisy/PHYS4150-2018/tree/master/homework#5-calculate-pi-series-expansion) | 20180927 23:59 (optional) |
 | [6-evaluate-pi-squared](https://github.com/husisy/PHYS4150-2018/tree/master/homework#6-evaluate-pi-squared) | for demo only |
-| [7-rectangular-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#7-rectangular-rule) | 20181011 23:59 |
+| [7-rectangular-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#7-rectangular-rule) | 20181011 23:59 (optional) |
 | [8-Simpsom-rule](https://github.com/husisy/PHYS4150-2018/tree/master/homework#8-simpsom-rule) | 20181011 23:59 |
 | [9-calculate-pi-Monte-Carlo-Integral](https://github.com/husisy/PHYS4150-2018/tree/master/homework#9-calculate-pi-monte-carlo-integral) | 20181011 23:59 |
 | [10-Gaussian_Quadrature](https://github.com/husisy/PHYS4150-2018/tree/master/homework#10-gaussian-quadrature) | 20181011 23:59 |
