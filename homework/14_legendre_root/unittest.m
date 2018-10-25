@@ -20,7 +20,8 @@ hfe_r4 = @(x,y) round(hfe(x,y)*1e4)/1e4;
 
 for ind1 = 1:15
     ret1 = sort(my_legendre_root(ind1).');
-    ret2 = code_template(ind1);
+    ret2 = sort(code_template(ind1));
+    assert(all(size(ret1)==size(ret2)), ['the shape of your return should be: (1, N)=(1, ', num2str(size(ret2,2)),')'])
     disp(['relative error for legendre_', num2str(ind1),...
             ' compared with built-in: ', num2str(hfe_r4(ret1,ret2),7)])
 end
