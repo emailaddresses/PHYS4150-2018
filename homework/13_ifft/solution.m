@@ -1,4 +1,4 @@
-function ret = code_template(x)
+function ret = solution(x)
 % implement inverse fast fourier transform
 % reference
 %   DFT-wiki: https://en.wikipedia.org/wiki/Discrete_Fourier_transform

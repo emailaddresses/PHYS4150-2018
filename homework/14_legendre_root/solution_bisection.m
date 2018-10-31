@@ -1,4 +1,4 @@
-function ret = code_template(N)
+function ret = solution_bisection(N)
 % find N roots of N-th order legendre polynomial
 % (ret)(1,N)
 if N==0
@@ -19,3 +19,6 @@ for ind1 = 1:N
     ret(ind1) = my_bisection(hf_legendre, a_array(ind1), b_array(ind1), 20);
 end
 end
+
+
+
