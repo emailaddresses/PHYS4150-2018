@@ -167,3 +167,13 @@ If you find some problems worth sharing (should be related to the course), you c
 7. [```my_legendre_root.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/my_legendre_root.m)
 8. [```my_bisection.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/my_bisection.m)
 9. [```my_newton_raphson.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/14_legendre_root/my_newton_raphson.m)
+
+## 15-lu-linear-equation
+
+1. due time: 20181115 23:59
+2. Given matrix A and vector b, solve the linear equations ```𝐴𝑥=𝑏``` using lu decomposition. You are required to do: 
+   * first: decompose matrix A into lower triangular matrix L and upper triangular matrix U, ```A=LU```
+   * second: solve triangular linear equations ```Ly=b```
+   * third: solve triangular linear equations ```Ux=y```
+3. [```code_template.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/15_lu_linear_equation/code_template.m)
+4. [```unittest.m```](https://github.com/husisy/PHYS4150-2018/tree/master/homework/15_lu_linear_equation/unittest.m)
