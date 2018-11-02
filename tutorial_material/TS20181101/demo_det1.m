@@ -5,7 +5,7 @@ N0 = 5;
 matA = rand(N0,N0);
 
 %%
-for ind_repeat = 1:3
+for ind_repeat = 1:2
     matA_ = matA;
     ctrl = demo_matrix(struct('matA', matA_, 'title', ''));
     sign = 1;
