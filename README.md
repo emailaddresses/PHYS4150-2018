@@ -68,11 +68,19 @@ NOTICE: *for homework11, 12, 13, 14, solutions and demo homework have been uploa
 | Oct 31 11:30-12:20 | tutorial chapter3 summary | MBG07 | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20181031) |
 | Nov 1 10:30-11:20 | lecture | LE6 [Householder Transformation](https://github.com/husisy/PHYS4150-2018/tree/master/lecture_note/lecture05.pdf) |  |
 | Nov 1 10:30-12:20 | tutorial | LE6 matrix | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20181101) |
-| Nov 5 11:30-12:20 | tutorial | MBG07 | |
+| Nov 5 11:30-12:20 | lecture | LE6 | |
 | Nov 8 10:30-11:20 | lecture | LE6 |  |
 | Nov 8 10:30-12:20 | tutorial | LE6 |  |
-| To Be Added | | | |
+| Nov 12 11:30-12:20 | lecture | LE6 | |
+| Nov 15 10:30-11:20 | lecture | LE6 |  |
+| Nov 15 10:30-12:20 | tutorial | LE6 |  |
+| Nov 19 11:30-12:20 | lecture | LE6 | |
 | Nov 21 11:30-13:20 | tutorial | MBG07 | |
+| Nov 22 10:30-11:20 | lecture | LE6 |  |
+| Nov 22 10:30-12:20 | tutorial | LE6 |  |
+| Nov 26 11:30-12:20 | lecture | LE6 | |
+| Nov 29 10:30-11:20 | lecture | LE6 |  |
+| Nov 29 10:30-12:20 | tutorial | LE6 |  |
 
 ## homework
 
@@ -93,7 +101,7 @@ NOTICE: *for homework11, 12, 13, 14, solutions and demo homework have been uploa
 | [12-pade-approximation](https://github.com/husisy/PHYS4150-2018/tree/master/homework#12-pade-approximation) | 20181025 23:59 |
 | [13-ifft](https://github.com/husisy/PHYS4150-2018/tree/master/homework#13-ifft) | 20181025 23:59 (optional) |
 | [14-legendre-root](https://github.com/husisy/PHYS4150-2018/tree/master/homework#14-legendre-root) | 20181025 23:59 |
-| [15-lu-linear-equation](https://github.com/husisy/PHYS4150-2018/tree/master/homework#15-lu-linear-equation) | 20181025 23:59 |
+| [15-lu-linear-equation](https://github.com/husisy/PHYS4150-2018/tree/master/homework#15-lu-linear-equation) | 20181115 23:59 |
 
 ## Instruction
 
