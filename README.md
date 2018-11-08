@@ -149,3 +149,4 @@ move to [sub-link](https://github.com/husisy/PHYS4150-2018/tree/master/misc/mark
 8. add flow chart for algorithm
 9. add python support
 10. add project requirement
+11. **URGENT: ADD MISSING LECTURE NOTE**
