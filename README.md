@@ -69,18 +69,18 @@ NOTICE: *for homework11, 12, 13, 14, solutions and demo homework have been uploa
 | Nov 1 10:30-11:20 | lecture | LE6 [Householder Transformation](https://github.com/husisy/PHYS4150-2018/tree/master/lecture_note/lecture05.pdf) |  |
 | Nov 1 10:30-12:20 | tutorial | LE6 matrix | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20181101) |
 | Nov 5 11:30-12:20 | lecture | LE6 | |
-| Nov 8 10:30-11:20 | lecture | LE6 |  |
-| Nov 8 10:30-12:20 | tutorial | LE6 |  |
+| Nov 8 10:30-11:20 | lecture | LE6 - differential equation |  |
+| Nov 8 10:30-12:20 | tutorial | LE6 - Eigevalue Jocabi method | [link](https://github.com/husisy/PHYS4150-2018/tree/master/tutorial_material/TS20181108) |
 | Nov 12 11:30-12:20 | lecture | LE6 | |
 | Nov 15 10:30-11:20 | lecture | LE6 |  |
-| Nov 15 10:30-12:20 | tutorial | LE6 |  |
+| Nov 15 11:30-12:20 | tutorial | LE6 |  |
 | Nov 19 11:30-12:20 | lecture | LE6 | |
 | Nov 21 11:30-13:20 | tutorial | MBG07 | |
 | Nov 22 10:30-11:20 | lecture | LE6 |  |
-| Nov 22 10:30-12:20 | tutorial | LE6 |  |
+| Nov 22 11:30-12:20 | tutorial | LE6 |  |
 | Nov 26 11:30-12:20 | lecture | LE6 | |
 | Nov 29 10:30-11:20 | lecture | LE6 |  |
-| Nov 29 10:30-12:20 | tutorial | LE6 |  |
+| Nov 29 11:30-12:20 | tutorial | LE6 |  |
 
 ## homework
 
