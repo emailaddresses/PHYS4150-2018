@@ -4,7 +4,7 @@ This is the website for course PHYS4150 Computational Physics, including course 
 
 [link for going back to course website from github](https://husisy.github.io/PHYS4150-2018/)
 
-NOTICE: *for homework11, 12, 13, 14, solutions and demo homework have been uploaded.*
+NOTICE: *for homework15, solutions and demo homework have been uploaded.*
 
 1. click ```view on github```
 2. click ```homework``` folder
