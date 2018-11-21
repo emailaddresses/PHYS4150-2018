@@ -78,8 +78,8 @@ NOTICE: *for homework15, solutions and demo homework have been uploaded.*
 | Nov 22 10:30-11:20 | lecture | LE6 |  |
 | Nov 22 11:30-12:20 | tutorial | LE6 |  |
 | Nov 26 11:30-12:20 | lecture | LE6 | |
-| Nov 29 10:30-11:20 | lecture | LE6 |  |
-| Nov 29 11:30-12:20 | tutorial | LE6 |  |
+| Nov 29 10:30-12:20 | project presentation | LE6 |  |
+| Nov 29 11:30-12:20 | project presentation | LE6 |  |
 
 ## homework
 
