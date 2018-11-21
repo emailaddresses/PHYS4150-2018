@@ -15,7 +15,7 @@ Also, if you
 
 you could
 
-* create a issue. (at issues page, click new issue)
+* create an issue. (at issues page, click new issue)
 * make a pull requests. (no idea how to use)
 * contact me. (zhangchk [aaaatttt] hku.hk)
 
