@@ -25,6 +25,7 @@ NOTICE: *for homework15, solutions and demo homework have been uploaded.*
 4. [MD_lecture_note](https://github.com/husisy/PHYS4150-2018/tree/master/MD_lecture_note): *still under construction*; rewrite lecture note according to personal understanding. All in ```.md``` format
 5. [project](https://github.com/husisy/PHYS4150-2018/tree/master/project): *still under construction*
 6. [misc/markdown](https://github.com/husisy/PHYS4150-2018/tree/master/misc/markdown): all kinds of miscellaneous markdown files
+7. [python](https://github.com/husisy/PHYS4150-2018/tree/master/python): rewrite all code in Python language, *still under construction*
 
 ## Usage
 
