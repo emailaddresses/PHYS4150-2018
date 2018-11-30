@@ -140,12 +140,11 @@ move to [sub-link](https://github.com/husisy/PHYS4150-2018/tree/master/misc/mark
 
 1. *(personal prejudice towards Octave) WARNING: I will remove Octave compatibility one week after the course finish. If you want to keep this part, you should fork this repo before that*
 2. FAQ, some of your homework forget to specify whether to put on course website or not
-3. check whether links are valid, especially homewok
-4. homework folder structure
-5. add unittest.m instruction
-6. mathjax support
-7. summary ```wiki link, implementation, unittest, builtin available, .```
-8. add flow chart for algorithm
-9. add python support
-10. add project requirement
-11. **URGENT: ADD MISSING LECTURE NOTE**
+3. homework folder structure
+4. add unittest.m instruction
+5. mathjax support
+6. summary ```wiki link, implementation, unittest, builtin available, .```
+7. add flow chart for algorithm
+8. add python support
+9. add project requirement
+10. add MATLAB unittest using testing frameworks
